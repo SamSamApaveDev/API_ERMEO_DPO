@@ -1,0 +1,17 @@
+// pour exemple
+
+{
+  "name": "- Suivi qualité contrôle -##text_fyz08xOx##_##number_Z6e3hu3b##_##number_vR8zJndH##",
+  "users": [
+    {
+      "id": "11a741cf-08ff-4c4b-b6ef-918198a97487"
+    }
+  ],
+  "planning": {
+    "planned_timezone": "Europe/Paris",
+    "is_planned": true
+  },
+  "document": {
+    "id": "b85c6b73-7f9f-48c0-9a70-48807f835db3"
+  }
+}
